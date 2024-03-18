@@ -1,5 +1,6 @@
+
 {
-<<<<<<< HEAD
+
   "name": "testapp",
   "version": "0.1.0",
   "private": true,
@@ -35,8 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
-=======
+  },
+
   "name": "testdeploy",
   "version": "1.0.0",
   "description": "",
@@ -46,5 +47,4 @@
   },
   "author": "",
   "license": "ISC"
->>>>>>> 5e6d12723e4985c22e5cd107a08a8f0193115f21
 }
